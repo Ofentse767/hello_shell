@@ -1,2 +1,0 @@
-mkdir project_folder
-
